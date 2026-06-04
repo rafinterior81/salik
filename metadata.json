@@ -1,0 +1,6 @@
+{
+  "name": "Suluk & Salik",
+  "description": "Aplikasi bimbingan ruhani suluk & salik, dilengkapi dengan jurnal ibadah harian, target zikir, mading kalam mursyid, riyadhoh, panduan khalwat, tazkiyatun nafs, adab murid, serta ayat quran & hadis tasawwuf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
